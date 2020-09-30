@@ -14,7 +14,10 @@
 </div>
 </br>
 
-> Probably the best curated list of data science software in Python
+> The best curated list of data science software in Python.
+> Data Science Course Fir absolute Beginner , A cool And Understandable
+> Course.
+
 
 ## Contents
 * [Machine Learning](#machine-learning)
