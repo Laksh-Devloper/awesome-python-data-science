@@ -15,7 +15,7 @@
 </br>
 
 > The best curated list of data science software in Python.
-> Data Science Course Fir absolute Beginner , A cool And Understandable
+> Data Science Course For absolute Beginners , A cool And Understandable
 > Course.
 
 
